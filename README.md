@@ -1,4 +1,4 @@
-![image](https://github.com/Spacewe/SCI-2023/assets/26407744/8c7dabc7-f227-4502-ad6f-c9668be26490)# SCI-2023
+# SCI-2023
 中科院分区表-2023
 
 完整Execl文件下载：[分区2023](https://github.com/Spacewe/SCI-2023/blob/main/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%88%86%E5%8C%BA2023.xlsx)
