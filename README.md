@@ -3,7 +3,7 @@
 
 完整Execl文件下载：[分区2023](https://github.com/Spacewe/SCI-2023/blob/main/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%88%86%E5%8C%BA2023.xlsx)
 
-[toc]
+- [计算机科学大类180个期刊](https://github.com/Spacewe/SCI-2023/blob/main/README.md#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%B1%BB-180%E4%B8%AA%E6%9C%9F%E5%88%8A)
 
 ## 计算机科学大类 180个期刊
 这里给出计算机科学大类的前180个期刊，包括了所有的一区二区，但是三区四区并不全。
