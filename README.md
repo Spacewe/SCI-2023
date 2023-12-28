@@ -1,9 +1,12 @@
-# SCI-2023
+![image](https://github.com/Spacewe/SCI-2023/assets/26407744/8c7dabc7-f227-4502-ad6f-c9668be26490)# SCI-2023
 中科院分区表-2023
 
+完整Execl文件下载：[分区2023](https://github.com/Spacewe/SCI-2023/blob/main/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%88%86%E5%8C%BA2023.xlsx)
 
-## 计算机科学大类
-这里给出计算机科学大类的前180个期刊，包括了所有的一区二区
+[toc]
+
+## 计算机科学大类 180个期刊
+这里给出计算机科学大类的前180个期刊，包括了所有的一区二区，但是三区四区并不全。
 
 | 序号  | 刊名                                                                                            | ISSN      | 分区 |
 |-----|-----------------------------------------------------------------------------------------------|-----------|----|
@@ -187,3 +190,178 @@
 | 178 | JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS                         | 0016-0032 | 3区 |
 | 179 | Big Data Research                                                                             | 2214-5796 | 3区 |
 | 180 | IMAGE AND VISION COMPUTING                                                                    | 0262-8856 | 3区 |
+
+
+## 综合类期刊
+
+包括了其中前60个期刊，并不全。
+
+| 序号 | 刊名                                                                                                      | ISSN      | 分区 |
+|----|---------------------------------------------------------------------------------------------------------|-----------|----|
+| 1  | SCIENCE                                                                                                 | 0036-8075 | 1区 |
+| 2  | NATURE                                                                                                  | 0028-0836 | 1区 |
+| 3  | Nature Communications                                                                                   | 2041-1723 | 1区 |
+| 4  | Science Advances                                                                                        | 2375-2548 | 1区 |
+| 5  | PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA                         | 0027-8424 | 1区 |
+| 6  | Innovation                                                                                              | 2666-6758 | 1区 |
+| 7  | National Science Review                                                                                 | 2095-5138 | 1区 |
+| 8  | Science Bulletin                                                                                        | 2095-9273 | 1区 |
+| 9  | Journal of Advanced Research                                                                            | 2090-1232 | 1区 |
+| 10 | Research                                                                                                | 2096-5168 | 1区 |
+| 11 | Scientific Data                                                                                         | 2052-4463 | 2区 |
+| 12 | Cell Reports Physical Science                                                                           | 2666-3864 | 2区 |
+| 13 | Scientific Reports                                                                                      | 2045-2322 | 2区 |
+| 14 | JOURNAL OF CULTURAL HERITAGE                                                                            | 1296-2074 | 2区 |
+| 15 | iScience                                                                                                | 2589-0042 | 2区 |
+| 16 | IEEE SENSORS JOURNAL                                                                                    | 1530-437X | 2区 |
+| 17 | Journal of the Royal Society Interface                                                                  | 1742-5689 | 3区 |
+| 18 | PLoS One                                                                                                | 1932-6203 | 3区 |
+| 19 | PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES        | 1364-503X | 3区 |
+| 20 | ANNALS OF THE NEW YORK ACADEMY OF SCIENCES                                                              | 0077-8923 | 3区 |
+| 21 | Royal Society Open Science                                                                              | 2054-5703 | 3区 |
+| 22 | SENSORS                                                                                                 | 1424-8220 | 3区 |
+| 23 | PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES                       | 1364-5021 | 3区 |
+| 24 | Heliyon                                                                                                 | 2405-8440 | 3区 |
+| 25 | JOURNAL OF KING SAUD UNIVERSITY SCIENCE                                                                 | 1018-3647 | 3区 |
+| 26 | Facets                                                                                                  | 2371-1671 | 3区 |
+| 27 | Fundamental Research                                                                                    | 2096-9457 | 3区 |
+| 28 | PROCEEDINGS OF THE JAPAN ACADEMY SERIES B-PHYSICAL AND BIOLOGICAL SCIENCESreview                        | 0386-2208 | 3区 |
+| 29 | Symmetry-Basel                                                                                          | 2073-8994 | 3区 |
+| 30 | Journal of Taibah University for Science                                                                | 1658-3655 | 3区 |
+| 31 | GLOBAL CHALLENGES                                                                                       | 2056-6646 | 4区 |
+| 32 | INTERDISCIPLINARY SCIENCE REVIEWS                                                                       | 0308-0188 | 4区 |
+| 33 | Applied Sciences-Basel                                                                                  | 2076-3417 | 4区 |
+| 34 | ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING                                                             | 2193-567X | 4区 |
+| 35 | RENDICONTI LINCEI-SCIENZE FISICHE E NATURALI                                                            | 2037-4631 | 4区 |
+| 36 | JOURNAL OF THE INDIAN INSTITUTE OF SCIENCEreview                                                        | 0970-4140 | 4区 |
+| 37 | Journal of Radiation Research and Applied Sciences                                                      | 1687-8507 | 4区 |
+| 38 | Iranian Journal of Science and Technology Transaction A-Science                                         | 1028-6276 | 4区 |
+| 39 | SCIENCE PROGRESS                                                                                        | 0036-8504 | 4区 |
+| 40 | SOUTH AFRICAN JOURNAL OF SCIENCE                                                                        | 0038-2353 | 4区 |
+| 41 | JOURNAL OF THE ROYAL SOCIETY OF NEW ZEALAND                                                             | 0303-6758 | 4区 |
+| 42 | ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS                                                                | 0001-3765 | 4区 |
+| 43 | TRANSACTIONS OF THE ROYAL SOCIETY OF SOUTH AUSTRALIA                                                    | 0372-1426 | 4区 |
+| 44 | Kuwait Journal of Science                                                                               | 2307-4108 | 4区 |
+| 45 | HERALD OF THE RUSSIAN ACADEMY OF SCIENCES                                                               | 1019-3316 | 4区 |
+| 46 | SCIENCEASIA                                                                                             | 1513-1874 | 4区 |
+| 47 | NATIONAL ACADEMY SCIENCE LETTERS-INDIA                                                                  | 0250-541X | 4区 |
+| 48 | PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES INDIA SECTION A-PHYSICAL SCIENCES                       | 0369-8203 | 4区 |
+| 49 | NEW SCIENTIST                                                                                           | 0262-4079 | 4区 |
+| 50 | Jove-Journal of Visualized Experiments                                                                  | 1940-087X | 4区 |
+| 51 | Proceedings of the Estonian Academy of Sciences                                                         | 1736-6046 | 4区 |
+| 52 | SCIENTIFIC AMERICAN                                                                                     | 0036-8733 | 4区 |
+| 53 | All Life                                                                                                | 2689-5293 | 4区 |
+| 54 | CURRENT SCIENCE                                                                                         | 0011-3891 | 4区 |
+| 55 | INTERCIENCIA                                                                                            | 0378-1844 | 4区 |
+| 56 | Sains Malaysiana                                                                                        | 0126-6039 | 4区 |
+| 57 | Proceedings of the Romanian Academy Series A-Mathematics Physics Technical Sciences Information Science | 1454-9069 | 4区 |
+| 58 | ACTA SCIENTIARUM-TECHNOLOGY                                                                             | 1806-2563 | 4区 |
+| 59 | JOURNAL OF THE NATIONAL SCIENCE FOUNDATION OF SRI LANKA                                                 | 1391-4588 | 4区 |
+| 60 | COMPTES RENDUS DE L ACADEMIE BULGARE DES SCIENCES                                                       | 1310-1331 | 4区 |
+
+## 工程技术
+
+工程技术大类的前100个期刊，并不全。
+
+| 序号  | 刊名                                                                 | ISSN      | 分区 |
+|-----|--------------------------------------------------------------------|-----------|----|
+| 1   | Nature Electronics                                                 | 2520-1131 | 1区 |
+| 2   | PROGRESS IN ENERGY AND COMBUSTION SCIENCEreview                    | 0360-1285 | 1区 |
+| 3   | Annual Review of Fluid Mechanicsreview                             | 0066-4189 | 1区 |
+| 4   | Analytic Methods in Accident Research                              | 2213-6657 | 1区 |
+| 5   | INTERNATIONAL JOURNAL OF MACHINE TOOLS & MANUFACTURE               | 0890-6955 | 1区 |
+| 6   | BIOTECHNOLOGY ADVANCESreview                                       | 0734-9750 | 1区 |
+| 7   | TRENDS IN BIOTECHNOLOGYreview                                      | 0167-7799 | 1区 |
+| 8   | Applied Mechanics Reviewsreview                                    | 0003-6900 | 1区 |
+| 9   | RELIABILITY ENGINEERING & SYSTEM SAFETY                            | 0951-8320 | 1区 |
+| 10  | International Journal of Extreme Manufacturing                     | 2631-8644 | 1区 |
+| 11  | IEEE Reviews in Biomedical Engineeringreview                       | 1937-3333 | 1区 |
+| 12  | International Journal of Mining Science and Technology             | 2095-2686 | 1区 |
+| 13  | PROGRESS IN AEROSPACE SCIENCESreview                               | 0376-0421 | 1区 |
+| 14  | CEMENT AND CONCRETE RESEARCH                                       | 0008-8846 | 1区 |
+| 15  | Annual Review of Biomedical Engineeringreview                      | 1523-9829 | 1区 |
+| 16  | CEMENT & CONCRETE COMPOSITES                                       | 0958-9465 | 1区 |
+| 17  | COMPUTER-AIDED CIVIL AND INFRASTRUCTURE ENGINEERING                | 1093-9687 | 1区 |
+| 18  | Chemical Engineering Journal                                       | 1385-8947 | 1区 |
+| 19  | JOURNAL OF MANUFACTURING SYSTEMS                                   | 0278-6125 | 1区 |
+| 20  | AUTOMATION IN CONSTRUCTION                                         | 0926-5805 | 1区 |
+| 21  | RENEWABLE & SUSTAINABLE ENERGY REVIEWS                             | 1364-0321 | 1区 |
+| 22  | IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY     | 1051-8215 | 1区 |
+| 23  | Sustainable Cities and Society                                     | 2210-6707 | 1区 |
+| 24  | IEEE JOURNAL OF SOLID-STATE CIRCUITS                               | 0018-9200 | 1区 |
+| 25  | APPLIED ENERGY                                                     | 0306-2619 | 1区 |
+| 26  | IEEE TRANSACTIONS ON POWER ELECTRONICS                             | 0885-8993 | 1区 |
+| 27  | Advanced Fiber Materials                                           | 2524-7921 | 1区 |
+| 28  | ENERGY CONVERSION AND MANAGEMENT                                   | 0196-8904 | 1区 |
+| 29  | TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES               | 0968-090X | 1区 |
+| 30  | TRANSPORT REVIEWSreview                                            | 0144-1647 | 1区 |
+| 31  | IEEE Transactions on Intelligent Vehicles                          | 2379-8858 | 1区 |
+| 32  | GEOTEXTILES AND GEOMEMBRANES                                       | 0266-1144 | 1区 |
+| 33  | TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW | 1366-5545 | 1区 |
+| 34  | ADVANCED ENGINEERING INFORMATICS                                   | 1474-0346 | 1区 |
+| 35  | IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS                        | 0278-0046 | 1区 |
+| 36  | INTERNATIONAL JOURNAL OF MECHANICAL SCIENCES                       | 0020-7403 | 1区 |
+| 37  | TUNNELLING AND UNDERGROUND SPACE TECHNOLOGY                        | 0886-7798 | 1区 |
+| 38  | Additive Manufacturing                                             | 2214-8604 | 1区 |
+| 39  | Journal of Tissue Engineering                                      | 2041-7314 | 1区 |
+| 40  | IEEE Transactions on Smart Grid                                    | 1949-3053 | 1区 |
+| 41  | MECHANICAL SYSTEMS AND SIGNAL PROCESSING                           | 0888-3270 | 1区 |
+| 42  | JOURNAL OF MANAGEMENT IN ENGINEERING                               | 0742-597X | 1区 |
+| 43  | Aerospace Science and Technology                                   | 1270-9638 | 1区 |
+| 44  | ENGINEERING GEOLOGY                                                | 0013-7952 | 1区 |
+| 45  | IEEE Transactions on Sustainable Energy                            | 1949-3029 | 1区 |
+| 46  | ACCIDENT ANALYSIS AND PREVENTION                                   | 0001-4575 | 1区 |
+| 47  | Protection and Control of Modern Power Systems                     | 2367-2617 | 1区 |
+| 48  | Tribology International                                            | 0301-679X | 1区 |
+| 49  | TRANSPORTATION RESEARCH PART B-METHODOLOGICAL                      | 0191-2615 | 1区 |
+| 50  | COMPUTER METHODS IN APPLIED MECHANICS AND ENGINEERING              | 0045-7825 | 1区 |
+| 51  | INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS                      | 0925-5273 | 1区 |
+| 52  | JOURNAL OF MEMBRANE SCIENCE                                        | 0376-7388 | 1区 |
+| 53  | Journal of Rock Mechanics and Geotechnical Engineering             | 1674-7755 | 1区 |
+| 54  | Green Energy & Environment                                         | 2096-2797 | 1区 |
+| 55  | Friction                                                           | 2223-7690 | 1区 |
+| 56  | Design Studies                                                     | 0142-694X | 1区 |
+| 57  | Construction and Building Materials                                | 0950-0618 | 1区 |
+| 58  | Railway Engineering Science                                        | 2662-4745 | 1区 |
+| 59  | MECHANISM AND MACHINE THEORY                                       | 0094-114X | 1区 |
+| 60  | BUILDING AND ENVIRONMENT                                           | 0360-1323 | 1区 |
+| 61  | Renewable Energy                                                   | 0960-1481 | 1区 |
+| 62  | Microsystems & Nanoengineering                                     | 2055-7434 | 1区 |
+| 63  | International Journal of Coal Science & Technology                 | 2095-8293 | 1区 |
+| 64  | TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT           | 1361-9209 | 1区 |
+| 65  | INTERNATIONAL JOURNAL OF ROCK MECHANICS AND MINING SCIENCES        | 1365-1609 | 1区 |
+| 66  | eTransportation                                                    | 2590-1168 | 1区 |
+| 67  | Energy                                                             | 0360-5442 | 1区 |
+| 68  | Fuel                                                               | 0016-2361 | 1区 |
+| 69  | THIN-WALLED STRUCTURES                                             | 0263-8231 | 1区 |
+| 70  | IEEE Transactions on Transportation Electrification                | 2332-7782 | 1区 |
+| 71  | STRUCTURAL SAFETY                                                  | 0167-4730 | 1区 |
+| 72  | GEOTECHNIQUE                                                       | 0016-8505 | 1区 |
+| 73  | npj Clean Water                                                    | 2059-7037 | 1区 |
+| 74  | IEEE TRANSACTIONS ON POWER SYSTEMS                                 | 0885-8950 | 1区 |
+| 75  | Virtual and Physical Prototyping                                   | 1745-2759 | 1区 |
+| 76  | IEEE SIGNAL PROCESSING MAGAZINE                                    | 1053-5888 | 1区 |
+| 77  | Automotive Innovation                                              | 2096-4250 | 1区 |
+| 78  | INTERNATIONAL JOURNAL OF ENGINEERING SCIENCE                       | 0020-7225 | 1区 |
+| 79  | Journal of Manufacturing Processes                                 | 1526-6125 | 1区 |
+| 80  | IEEE-ASME TRANSACTIONS ON MECHATRONICS                             | 1083-4435 | 1区 |
+| 81  | IEEE Journal of Selected Topics in Signal Processing               | 1932-4553 | 1区 |
+| 82  | IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES               | 0018-9480 | 1区 |
+| 83  | Computers & Industrial Engineering                                 | 0360-8352 | 1区 |
+| 84  | IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS            | 1524-9050 | 1区 |
+| 85  | Acta Geotechnica                                                   | 1861-1125 | 1区 |
+| 86  | ENGINEERING STRUCTURES                                             | 0141-0296 | 1区 |
+| 87  | WEAR                                                               | 0043-1648 | 1区 |
+| 88  | SAFETY SCIENCE                                                     | 0925-7535 | 1区 |
+| 89  | TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE                 | 0965-8564 | 1区 |
+| 90  | COMPUTERS AND GEOTECHNICS                                          | 0266-352X | 1区 |
+| 91  | IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS         | 1549-8328 | 1区 |
+| 92  | JOURNAL OF LIGHTWAVE TECHNOLOGY                                    | 0733-8724 | 1区 |
+| 93  | SEPARATION AND PURIFICATION TECHNOLOGY                             | 1383-5866 | 1区 |
+| 94  | Engineering                                                        | 2095-8099 | 1区 |
+| 95  | DESALINATION                                                       | 0011-9164 | 1区 |
+| 96  | Underground Space                                                  | 2096-2754 | 1区 |
+| 97  | Petroleum Exploration and Development                              | 2096-4803 | 1区 |
+| 98  | Engineering Applications of Computational Fluid Mechanics          | 1994-2060 | 1区 |
+| 99  | Chinese Journal of Aeronautics                                     | 1000-9361 | 1区 |
+| 100 | Journal of Modern Power Systems and Clean Energy                   | 2196-5625 | 1区 |
