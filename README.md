@@ -7,7 +7,9 @@
 
 - [计算机科学大类前180个期刊](https://github.com/Spacewe/SCI-2023/blob/main/README.md#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%B1%BB-180%E4%B8%AA%E6%9C%9F%E5%88%8A)
 - [综合性期刊前60个](https://github.com/Spacewe/SCI-2023/blob/main/README.md#%E7%BB%BC%E5%90%88%E7%B1%BB%E6%9C%9F%E5%88%8A)
-- [工程技术大类前100个期刊]()
+- [工程技术大类前100个期刊](https://github.com/Spacewe/SCI-2023/blob/main/README.md#%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF)
+
+
 ## 计算机科学大类 180个期刊
 这里给出计算机科学大类的前180个期刊，包括了所有的一区二区，但是三区四区并不全。
 
